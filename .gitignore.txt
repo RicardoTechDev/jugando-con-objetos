@@ -1,0 +1,12 @@
+# ignora cualquier archivo llamado "secret.txt"copy
+/comandos.txt
+# ignora cualquier directorio llamado "secrets"
+packages/
+# ignora un directorio llamado "node_modules" ubicado en la raíz de tu directorio de trabajo
+/node_modules/
+# ignora cualquier archivo con extensión .txt
+*.txt
+# ignora cualquier archivo o directorio que comienza con "cache", como cache-file-01, cached_assets/, etc.
+log*
+# ignora cualquier archivo llamado "secret.txt"copy
+secret.js
